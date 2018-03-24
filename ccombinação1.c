@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /// Feito por: Gabrielly Moura
-/// Engenharia da Computação - UEMA
+/// Engenharia da ComputaÃ§Ã£o - UEMA
 
 
 
